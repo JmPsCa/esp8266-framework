@@ -6,7 +6,7 @@
 // #endif
 
 #include <Arduino.h>
-#include <database/StoreStruct.h>
+#include <Config/Config.h>
 
 #define PROTOCOL_NAMEv311
 

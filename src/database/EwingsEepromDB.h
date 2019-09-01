@@ -19,7 +19,7 @@ created Date    : 1st June 2019
 #include <EEPROM.h>
 #include <utility/Utility.h>
 #include <utility/Log.h>
-#include "StoreStruct.h"
+#include <Config/Config.h>
 
 /**
  * define table structure here
